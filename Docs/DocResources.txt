@@ -1,0 +1,27 @@
+
+
+
+IOT
+https://www.hackster.io/search?i=projects&q=iot
+https://www.weargenius.in/
+
+IOT Guides at platforms:
+https://thingsboard.io/docs/guides/
+https://developers.mydevices.com/cayenne/docs/intro/
+
+
+Java & IOT:
+https://www.ateam-oracle.com/?search_terms=iot
+https://www.oracle.com/technical-resources/articles/java/cruz-gpio.html
+
+
+
+P4J Tutorials and Projects:
+http://www.savagehomeautomation.com/articles/
+
+MQTT:
+https://bytesofgigabytes.com/mqtt/java-as-mqtt-publisher-and-subscriber-client/
+https://www.ateam-oracle.com/intelligent-devices-with-oea-and-mqtt
+
+Eclipse:
+https://www.eclipse.org/paho/index.php?page=articles/talkingsmall/index.php

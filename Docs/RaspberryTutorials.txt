@@ -1,0 +1,8 @@
+
+Raspberry & Java:
+https://dzone.com/refcardz/iot-applications-with-java-and-raspberry-pi?chapter=1
+
+
+
+
+https://www.hackster.io/weargenius/send-data-using-mqtt-514e25
