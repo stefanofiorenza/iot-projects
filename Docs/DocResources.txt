@@ -1,13 +1,15 @@
 
 
 
-IOT
+IOT Resources
 https://www.hackster.io/search?i=projects&q=iot
 https://www.weargenius.in/
 
 IOT Guides at platforms:
 https://thingsboard.io/docs/guides/
 https://developers.mydevices.com/cayenne/docs/intro/
+https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
+
 
 
 Java & IOT:
@@ -25,3 +27,17 @@ https://www.ateam-oracle.com/intelligent-devices-with-oea-and-mqtt
 
 Eclipse:
 https://www.eclipse.org/paho/index.php?page=articles/talkingsmall/index.php
+
+Fleet management@Oracle:
+https://docs.oracle.com/en/cloud/saas/iot-fleet-cloud/tutorial-monitoring-fleet-monitoring/
+https://docs.oracle.com/en/cloud/paas/iot-cloud/iotgs/use-uri-data-type-device-models.html
+https://docs.oracle.com/en/cloud/paas/iot-cloud/tutorials.html
+
+AWS:
+https://aws.amazon.com/blogs/iot/monitor-iot-device-geolocation-with-aws-iot-events/
+https://aws.amazon.com/blogs/iot/using-aws-iot-services-for-asset-condition-monitoring/
+https://aws.amazon.com/iot/solutions/semtech_tensoriot_atk/
+https://github.com/search?q=org%3Aaws+iot
+
+Asset Tracking
+https://rasters.io/track-your-assets-and-iot-on-a-real-time-map-5-steps/

@@ -2,7 +2,19 @@
 Raspberry & Java:
 https://dzone.com/refcardz/iot-applications-with-java-and-raspberry-pi?chapter=1
 
+Setup Java for Raspberry:
+https://www.instructables.com/Efficient-Development-of-Java-for-the-Raspberry-Pi/
+https://www.oracle.com/technical-resources/articles/java/raspberrypi.html
+
+Wearegenius
+	https://www.hackster.io/weargenius/send-data-using-mqtt-514e25
+	https://www.hackster.io/weargenius/iot-with-raspberry-pi-using-java-8113ff
 
 
+Projects Raspberry PI
+	https://projects.raspberrypi.org/en/projects?hardware[]=raspberry-pi
+	https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/1
 
-https://www.hackster.io/weargenius/send-data-using-mqtt-514e25
+
+Tutorials:
+	https://tutorials-raspberrypi.com/

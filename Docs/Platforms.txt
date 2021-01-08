@@ -1,15 +1,32 @@
 
+IOT Platform
+https://www.javacodegeeks.com/2018/11/iot-platforms-overview-build.html
 
+Eclipse:
+https://iot.eclipse.org/projects/sandboxes/
+
+
+AWS:
+
+https://aws.amazon.com/marketplace
+https://d1.awsstatic.com/IoT/assets/ATK_Solution_%20Brief.pdf
 
 
 OFFICIAL:
 
+OpenHab:
+https://www.makeuseof.com/tag/getting-started-openhab-home-automation-raspberry-pi/
+
+
+Full Solution:
+https://thingspace.verizon.com/solutions/Device-Solutions/Critical-Asset-Sensor.html
+https://aws.amazon.com/blogs/apn/asset-tracking-that-works-out-of-the-box-from-aws-iot-verizon-and-domo/
 
 
 
 
-
-
+MQTT on cloud
+https://www.emqx.io/mqtt/public-mqtt5-broker
 
 TEMP:
 
