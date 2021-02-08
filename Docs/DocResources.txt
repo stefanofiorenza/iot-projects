@@ -9,7 +9,7 @@ IOT Guides at platforms:
 https://thingsboard.io/docs/guides/
 https://developers.mydevices.com/cayenne/docs/intro/
 https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
-
+https://thingsboard.io/docs/
 
 
 Java & IOT:
