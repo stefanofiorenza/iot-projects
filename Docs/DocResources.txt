@@ -17,6 +17,7 @@ https://www.ateam-oracle.com/?search_terms=iot
 https://www.oracle.com/technical-resources/articles/java/cruz-gpio.html
 
 
+https://randomnerdtutorials.com/projects/
 
 P4J Tutorials and Projects:
 http://www.savagehomeautomation.com/articles/
