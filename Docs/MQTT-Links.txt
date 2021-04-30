@@ -1,0 +1,34 @@
+
+
+Demo Data;
+https://cumulocity.com/guides/reference/sensor-library/#environmental-capabilities
+
+
+Public Broker (setup Proxy)
+https://www.hivemq.com/public-mqtt-broker/
+http://www.mqtt-dashboard.com/
+http://www.hivemq.com/demos/websocket-client/
+
+MQTT Essentials
+https://www.hivemq.com/mqtt-essentials/
+
+
+
+Mosquitto and Docker
+https://www.youtube.com/watch?v=L26JY2NH-Ys&ab_channel=BurnsHA
+http://docs.docker.oeynet.com/samples/library/eclipse-mosquitto/
+
+Nice tutorials:
+https://fiware-tutorials.readthedocs.io/en/1.0.0/iot-sensors/index.html
+
+
+MQTT in React
+https://www.emqx.io/blog/how-to-use-mqtt-in-react
+https://emqx.medium.com/how-to-use-mqtt-in-the-react-project-1b04d80bd383
+
+
+
+
+
+In Warehouse:
+https://www.youtube.com/watch?v=zqNDnU2Epqo&ab_channel=LeuzeTheSensorPeople

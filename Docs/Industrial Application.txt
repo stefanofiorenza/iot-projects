@@ -1,0 +1,45 @@
+
+
+Industrial Application Sensors:
+
+https://www.sick.com/ag/en/c/products
+
+
+https://www.optex-fa.com/tech_guide/
+https://www.optex-fa.com/tech_guide/movie/
+
+
+https://www.ia.omron.com/support/guide/5.html
+https://www.rs-online.com/designspark/industrial-sensing
+https://www.rs-online.com/designspark/ask-the-expert-industrial-sensors-for-iot-with-stmicrolectronics
+
+
+PREDICTIVE MANTAINANCE:
+https://www.digikey.com/en/videos/k/kunbus/connect-a-vibration-sensor-to-aws-iot-core--predictive-maintenance
+
+
+
+Object Counter on Conveyor
+https://www.youtube.com/watch?v=yH0JCUwWq_M&ab_channel=BannerEngineering
+https://www.youtube.com/watch?v=W_1wPCQIX5w&ab_channel=KCEngineering
+https://www.youtube.com/watch?v=t_IXjyOo-PA&ab_channel=MakerTutor WIth Arduino
+
+https://blog.cloudrail.com/building-an-object-counter-with-aws-iot-greengrass-and-cloudrail/
+
+https://www.youtube.com/watch?v=zie8YoZThz4&ab_channel=SICKSensorIntelligence.
+
+https://www.youtube.com/watch?v=HZkwgs1lkqM&ab_channel=CloudRail
+https://www.youtube.com/c/bannerengineering/playlists
+
+
+Sensor and Factory
+https://cdn.sick.com/de/en/?defaultRedirect=true
+https://www.youtube.com/watch?v=zie8YoZThz4&ab_channel=SICKSensorIntelligence.
+
+https://cdn.sick.com/media/docs/9/59/259/industry_guide_handling_and_assembly_technology_en_im0065259.pdf
+https://www.youtube.com/watch?v=Y0P-fXSTbzQ&ab_channel=HAMAMATSUPHOTONICS
+https://www.youtube.com/watch?v=C3QbWhcL7Xg&ab_channel=SICK%2CInc.
+
+
+Other videos with Ardunio Raspberry
+https://www.youtube.com/playlist?list=PLMI2ENJlAy0B3nOKfyiViaW19ktYNEZHu

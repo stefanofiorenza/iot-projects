@@ -27,7 +27,7 @@ public class MqttPublisher {
             client.connect(MqttDemoUtils.connectionOptions());
 
             for (int i=0; i<MESSAGES; i++){
-                byte[] payload =readSensorDataAsBytes();
+                byte[] payload = readTemperatureSensorDataAsBytes();
                 sendMessage(client,payload);
                 Thread.sleep(500L);
                 System.out.println("Message sent to : "+MqttDemoUtils.TOPIC);
@@ -51,12 +51,8 @@ public class MqttPublisher {
         client.publish(MqttDemoUtils.TOPIC,msg);
     }
 
-    /**
-     * This method simulates reading the engine temperature
-     * @return
-     */
 
-    private static byte[] readSensorDataAsBytes(){
+    private static byte[] readTemperatureSensorDataAsBytes(){
         double temp =  80 + rnd.nextDouble() * 20.0;
         byte[] payload = String.format("T:%04.2f",temp).getBytes();
         return payload;

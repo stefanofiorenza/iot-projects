@@ -1,0 +1,3 @@
+> cd C:\Program Files\mosquitto
+# Copy config file from Edge/Docs/mosquitto-config.conf
+> mosquitto -v -c ./mosquitto-config.conf
